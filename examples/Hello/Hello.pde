@@ -1,4 +1,5 @@
 import pKinect.PKinect;
+import pKinect.SkeletonData;
 
 PKinect kinect;
 PFont font;
